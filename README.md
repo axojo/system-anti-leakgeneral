@@ -1,1 +1,4 @@
-# system-anti-leakgeneral
+{
+    "mode": "WL", 
+    "ids": [123456, 789012]
+}
